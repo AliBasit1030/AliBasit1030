@@ -1,6 +1,7 @@
-Hi, I'm Ali Basit 👋
-Full-Stack Developer | Lahore
-Available for full-time roles and complete project delivery — from idea to deployment. Let’s connect.
+Hi, I'm Ali Basit 👋  <br>
+Full-Stack Developer | Lahore  <br>
+Available for full-time roles and complete project delivery — from idea to deployment. Let’s connect.  <br>
+
 
 <div align="center">
   
