@@ -2,9 +2,9 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Mobile+%26+Web+Developer;AI+Integration+Specialist;React+Native+Expert;Laravel+Backend+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Mobile+%26+Web+Developer;AI+Integration+Specialist;React+Native+Expert)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-basit-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1ranaaliabdulbasit@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliBasit1030)
 [![Phone](https://img.shields.io/badge/Phone-%2B92_370_8979690-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923708979690)
@@ -92,159 +92,6 @@
 
 </div>
 
----
-
-## 🏆 Featured Projects
-
-### 📱 Mobile Applications
-
-#### 🛒 Convenient - E-Commerce Mobile App
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
-
-**Tech Stack:** React Native | Laravel | Stripe | Firebase | Google Cloud
-
-- ✅ Full-featured e-commerce app for Android & iOS
-- 💳 Integrated Stripe payment processing
-- 🔐 Firebase authentication (Google, Apple, Facebook)
-- 🗺️ Google Directions API for delivery optimization
-- 🚀 Published on both Google Play Store & App Store
-
----
-
-#### 🚂 Railway Association App
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
-
-**Tech Stack:** React Native | AI Chatbot | Cross-Platform
-
-- 🤖 Integrated AI chatbot for user support
-- 📚 End-to-end tutorial system for onboarding
-- ⚡ Optimized for seamless cross-device performance
-- 🎨 Modern, intuitive interface
-
----
-
-#### 🧘 RAHU - iOS Mindfulness & Relaxation Platform
-![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
-
-**Tech Stack:** React Native (iOS) | Apple Pay | Laravel
-
-- 🌟 Minimalistic UI with soothing visuals
-- 🧠 Mental wellness tracking & mindfulness routines
-- 🍎 Apple Pay integration for subscriptions
-- 🔄 Offline accessibility for core features
-
----
-
-#### 🥯 Hendon Bagel - Multi-Store Food Ordering
-![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
-
-**Tech Stack:** React Native | Node.js | Worldpay
-
-- 🏪 Multi-store management system
-- 🛒 Real-time order tracking & cart management
-- 💳 Worldpay payment gateway integration
-- 📱 Optimized for quick ordering experience
-
----
-
-#### 🎓 Vocational Training Hub
-![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
-
-**Tech Stack:** React Native | Laravel APIs
-
-- 📖 Browse vocational courses & training programs
-- 📜 Certificate management & progress tracking
-- 💰 Payment gateway for course fees
-- 📴 Offline capabilities for enhanced accessibility
-
----
-
-#### 🛂 Passport Payment App (Government Project)
-![In Progress](https://img.shields.io/badge/Status-Government_Project-blue?style=for-the-badge)
-
-**Tech Stack:** React Native | Laravel | One Link Payment
-
-- 🔐 High-security government application
-- 💵 One Link payment integration
-- 📋 Official passport pricing combinations
-- 🏛️ Compliance with government regulations
-
----
-
-### 🌐 Web Applications & Websites
-
-#### 📝 Proctor8
-[![Website](https://img.shields.io/badge/Website-proctor8.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://proctor8.com)
-
-**Tech Stack:** Vue.js | Laravel | Real-time Data
-
-- 📊 Dashboards for managing exams, institutions, and proctors
-- 🔄 Real-time data updates with Laravel APIs
-- 📱 Responsive cross-device design
-
----
-
-#### ⏰ TimeStudy
-[![Website](https://img.shields.io/badge/Website-timestudy-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-**Tech Stack:** Vue.js | Laravel
-
-- ⏱️ Time tracking and data analysis
-- 📈 Comprehensive reporting dashboards
-- 🔄 Seamless Laravel API integration
-
----
-
-#### 👔 Ninja HR
-[![Website](https://img.shields.io/badge/Website-ninjahr-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-**Tech Stack:** React.js | Modern UI/UX
-
-- 💼 Modern HR management platform
-- 📊 Responsive dashboards
-- 🎨 Intuitive user interface
-
----
-
-#### 🛒 Convenient Website
-[![Website](https://img.shields.io/badge/Website-Live-success?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-**Tech Stack:** React.js | Real-time Sync
-
-- 🛍️ E-commerce platform frontend
-- ⚡ High-performance optimization
-- 🔄 Real-time product & order management
-
----
-
-### 📊 Dashboards & Admin Panels
-
-#### 🏥 AGEWISER Healthcare Dashboard
-[![Website](https://img.shields.io/badge/Website-AGEWISER-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-**Tech Stack:** React.js | Role-Based Access Control
-
-- 👑 **Super Users:** Full administrative control
-- 👨‍⚕️ **Physicians:** Patient records & treatment plans
-- 🩺 **Doctors:** Appointments & prescription management
-- 👤 **End Users:** Personal health data access
-- 📊 Real-time data visualization
-
----
-
-#### 🛍️ The Convenience App Dashboards
-[![Website](https://img.shields.io/badge/Website-Store_Manager-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theconvenientapp.com/store-manager)
-
-**Tech Stack:** React.js | Admin Management
-
-- 🔐 Super Admin Dashboard for business operations
-- 📦 Store Manager Dashboard for inventory tracking
-- 📈 Comprehensive reporting & analytics
-
----
-
 ## 💼 Professional Experience
 
 ### 🏢 BITKNOX
@@ -273,9 +120,9 @@ const aliBasit = {
     technologies: {
         frontEnd: {
             js: ["React", "Vue.js", "Angular"],
-            css: ["Tailwind CSS", "Bootstrap", "Material-UI"]
+            css: ["Tailwind CSS", "Bootstrap", "Material-UI","Vuetify"]
         },
-        mobile: ["React Native", "iOS", "Android"],
+        mobile: ["React Native","flutter", "iOS", "Android"],
         backEnd: ["Laravel", "Node.js", "Express.js"],
         databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
         apis: ["RESTful", "GraphQL"],
@@ -304,10 +151,11 @@ const aliBasit = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1ranaaliabdulbasit@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliBasit1030)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923708979690)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-basit-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1ranaaliabdulbasit@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliBasit1030)
+[![Phone](https://img.shields.io/badge/Phone-%2B92_370_8979690-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923708979690)
+
 
 </div>
 
