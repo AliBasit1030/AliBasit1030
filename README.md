@@ -1,4 +1,6 @@
-# Hi there, I'm Ali Basit 👋
+Hi, I'm Ali Basit 👋
+Full-Stack Developer | Lahore
+Available for full-time roles and complete project delivery — from idea to deployment. Let’s connect.
 
 <div align="center">
   
@@ -84,33 +86,13 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliBasit1030&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliBasit1030&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBasit1030&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBasit1030&layout=compact&theme=radical&hide_border=true&langs_count=8) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliBasit1030&theme=radical&hide_border=true)
 
 </div>
-
-## 💼 Professional Experience
-
-### 🏢 BITKNOX
-**Software Engineer (React + React Native + Laravel)**  
-*April 2025 — Present*
-
-- 🚀 Leading development of cross-platform mobile applications
-- 🔧 Building scalable backend systems with Laravel
-- 🎯 Implementing AI-integrated solutions
-
-### 🏢 TGI (TABS Group International)
-**Associate Software Engineer (React + Vue + React Native)**  
-*October 2023 — April 2025*
-
-- 📱 Developed multiple production mobile applications
-- 🌐 Created responsive web platforms with Vue.js
-- 🔄 Integrated complex third-party APIs
-
----
 
 ## 🎯 Core Competencies
 
